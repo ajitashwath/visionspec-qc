@@ -679,7 +679,6 @@ numpy>=1.23.0,<2.0.0
 For issues, questions, or contributions:
 - Create an issue in the repository
 - Email: support@visionspec-qc.com
-- Documentation: https://docs.visionspec-qc.com
 
 ---
 

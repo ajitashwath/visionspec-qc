@@ -1,7 +1,6 @@
 # VisionSpec QC - Technical Architecture Guide
 
 ## System Overview
-
 VisionSpec QC is built on a modular architecture separating data processing, model training, and inference into distinct components.
 
 ## Architecture Layers

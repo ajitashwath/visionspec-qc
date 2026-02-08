@@ -83,7 +83,7 @@ BATCH_SIZE = 16  # Default is 32
 
 ## 📖 Full Documentation
 
-See `PROJECT_DOCUMENTATION.md` for complete details on:
+See `docs/PROJECT_DOCUMENTATION.md` for complete details on:
 - Architecture
 - Implementation details
 - Performance metrics
